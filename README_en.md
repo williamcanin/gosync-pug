@@ -4,7 +4,7 @@
 
 [![NodeJS with Gulp](https://github.com/williamcanin/gosync-pug/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/williamcanin/gosync-pug/actions/workflows/npm-gulp.yml)
 
-Simple boilerplate with [Gulp](http://gulpjs.com/), [Twitter Bootstrap](http://getbootstrap.com), [Pug](http://pugjs.org) and [Browser Sync](https://www.browsersync.io) for projects that defy practicality.
+Simple boilerplate using [Pug](http://pugjs.org), [Twitter Bootstrap](http://getbootstrap.com), [Gulp](http://gulpjs.com/) and [Browser Sync](https://www.browsersync.io).
 
 ### Intro
 
