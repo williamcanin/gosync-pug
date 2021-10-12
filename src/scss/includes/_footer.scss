@@ -1,0 +1,24 @@
+/* Footer
+––––––––––––––––––––––––––––––––––––––––––––––––––  */
+
+.footer{
+    font-weight: $footer-font-weight;
+    background-color: $footer-background;
+    height: 25px;
+    .footer__wrapper {
+        p {
+            color: $footer-text-color;
+            span {
+                padding-right: 5px;
+            }
+        }
+    }
+    &__link{
+        text-decoration: none;
+        color: $footer-link-color;
+        &:hover{
+            color: $footer-link-color-hover;
+            text-decoration: none;
+        }
+    }
+}

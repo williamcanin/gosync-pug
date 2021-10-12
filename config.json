@@ -1,0 +1,15 @@
+{
+    "url": "https://yoursite.com",
+    "built": "public",
+    "server":{
+      "port": "3010"
+    },
+    "watch": [
+      "src/common/**/*",
+      "src/scss/**/*.scss",
+      "src/js/*.js",
+      "src/templates/**/*.pug",
+      "src/views/**/*.pug",
+      "lib/pug/url.pug"
+  ]    
+}

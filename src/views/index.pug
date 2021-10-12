@@ -1,0 +1,37 @@
+extends ../templates/layouts/main.pug
+
+//- You can add another navbar through the "navbar block" below.
+block navbar
+
+//- Content
+block content
+    //- This is an example page.
+    div.home
+        section.container.d-flex.justify-content-center.home__intro
+            div.row.align-items-center
+                div.col-md-12
+                    h1.home__intro-title < Go!Sync Pug />
+                    p.home__intro-content Simple boilerplate with &nbsp;
+                        a(href="http://pugjs.org", target="_blank") Pug
+                        | ,&nbsp;
+                        a(href="http://getbootstrap.com", target="_blank") Twitter Bootstrap
+                        | ,&nbsp;
+                        a(href="https://gulpjs.com", target="_blank") Gulp
+                        | , and &nbsp;
+                        a(href="https://www.browsersync.io/", target="_blank") Browser Sync
+                        |  for projects HTML static.
+
+        section.container.d-flex.justify-content-center.home__info
+            div.row.d-flex.align-self-center
+                div.col-6
+                    span
+                        a.btn.btn-primary.home__info-link(href="https://github.com/williamcanin/gosync-pug",
+                        target="_blank") View in GitHub
+                div.col-6
+                    span
+                        a.btn.btn-success.home__info-link(href="https://github.com/williamcanin/gosync-pug/issues",
+                        target="_blank") Report issues
+
+block scripts
+    script(src="/assets/js/home.min.js")
+
