@@ -2,7 +2,7 @@
 
 # Go!Sync Pug
 
-[![Build Status](https://travis-ci.org/williamcanin/gosync-pug.svg?branch=master)](https://travis-ci.org/williamcanin/gosync-pug)
+[![NodeJS with Gulp](https://github.com/williamcanin/gosync-pug/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/williamcanin/gosync-pug/actions/workflows/npm-gulp.yml)
 
 Simples boilerplate com [Gulp](http://gulpjs.com/), [Twitter Bootstrap](http://getbootstrap.com), [Pug](http://pugjs.org) e [Browser Sync](https://www.browsersync.io) para projetos que desafiam a praticidade.
 
