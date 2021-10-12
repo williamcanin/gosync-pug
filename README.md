@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/williamcanin/gosync-pug.svg?branch=master)](https://travis-ci.org/williamcanin/gosync-pug)
 
-Simples boilerplate com [Gulp](http://gulpjs.com/), [Twitter Bootstrap](http://getbootstrap.com), [Pug](http://pugjs.org) e [Browser Sync](https://www.browsersync.io) para projetos em HTML.
+Simples boilerplate com [Gulp](http://gulpjs.com/), [Twitter Bootstrap](http://getbootstrap.com), [Pug](http://pugjs.org) e [Browser Sync](https://www.browsersync.io) para projetos que desafiam a praticidade.
 
 ### Introdução
 
